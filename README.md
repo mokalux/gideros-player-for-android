@@ -1,5 +1,5 @@
 Gideros Player for Android (apk with most plugins).
-- build date: 2020-02-25
+- build date: 2020-12-19
 
 Some of the included plugins are:
 - ads
