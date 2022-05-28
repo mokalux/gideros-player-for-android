@@ -1,26 +1,8 @@
-mygiderosplayer2-debug (LUAU)
-<<<<<<< HEAD
+mygiderosplayer-debug (LUAU)
 
 =======
->>>>>>> master
-Gideros Player for Android (apk with same plugins as below BUT Threads plugin not supported in latest Gideros so it was removed).
-- gideros version: 2022.3.1
-
-
----------------------------------------------------------------------------
-
-
-mygiderosplayer-debug
-<<<<<<< HEAD
-
-=======
->>>>>>> master
 Gideros Player for Android (apk with most plugins).
-- gideros version: 2021.11
-
-
----------------------------------------------------------------------------
-
+- gideros version: 2022.5.1 pr
 
 The included plugins are:
 
