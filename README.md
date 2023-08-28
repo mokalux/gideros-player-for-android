@@ -6,6 +6,6 @@ Gideros Player for Android (apk with most plugins).
 
 Gideros version: 2022.5.1 PR
 
-![pic](ss/gideros_player_plugins_apk.jpg)
+![pic](ss/gideros_player_plugins_apk.png)
 
 Threads plugin was removed in latest Gideros Luau versions.
