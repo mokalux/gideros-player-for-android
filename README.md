@@ -9,4 +9,4 @@ Gideros version: trying to keep up with Gideros releases ;-)
 
 ![pic](ss/gideros_player_plugins_apk.png)
 
-2023.11: added Flurry to the plugins (not in the screenshot!)
+2023.11: added Flurry to the Plugins (not in the screenshot!)
